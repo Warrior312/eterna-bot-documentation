@@ -27,7 +27,17 @@ Welcome to the docs for the Eterna-Bot from the Eternaments server! Take a look 
 `/etplayer [user]`: Displays the mentioned user's profile within the active channel.
 
 
+
 ## Team Commands
 ### These commands are meant for team members and their captains. Keep note, some commands require captiancy to execute.
 
 `/createteam`:Creates a team for the specified league. League name is case-sensitive.
+<br>
+
+![createTeamModal](photos/teamcreate.PNG)
+
+<br>
+
+`/disbandteam`: Disbands a team of your choosing. You MUST be the captain of a team to disband it.
+
+
