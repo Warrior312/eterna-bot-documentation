@@ -13,5 +13,5 @@ Welcome to the docs for the Eterna-Bot from the Eternaments server! Take a look 
 ## Form-Required commands
 
 `/createplayerprofile`:
-
+!(photos/createProfileModal.PNG)
 
