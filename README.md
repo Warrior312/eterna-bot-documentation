@@ -10,10 +10,18 @@ Welcome to the docs for the Eterna-Bot from the Eternaments server! Take a look 
 
 `/showteam [teamname: ]`: Fill in the `teamname` attribute with the team page that you'd like to display, such as ("Tech and Design").
 
-## Form-Required commands
+## Personal Commands
+### These commands are meant for managing and viewing your own profile and other user's profiles.
 
-`/createplayerprofile`: You must fill out the following form to create a profile. Don't worry, this won't be permanent! You can change this at any time.
+`/createplayerprofile`: You must fill out the following form to create a profile. Don't worry, this won't be permanent! You can change this at any time with the following command. ***A PROFILE IS REQUIRED FOR MULTIPLE OTHER COMMANDS***.
 
 ![createProfileModal](https://github.com/Warrior312/eterna-bot-documentation/assets/87901386/6085bdb1-7ca7-4aaa-8589-ba7506ac3459)
 
 
+<br>
+<br>
+
+`/editplayerprofile`: Edit your current player profile registered with Eternaments. This command uses the same form as the one pictured above.
+
+
+`/etplayer [user]`: Displays the mentioned user's profile within the active channel.
