@@ -40,4 +40,6 @@ Welcome to the docs for the Eterna-Bot from the Eternaments server! Take a look 
 
 `/disbandteam`: Disbands a team of your choosing. You MUST be the captain of a team to disband it.
 
+<br>
 
+![disbandModal](photos/disbandmodal.PNG)
