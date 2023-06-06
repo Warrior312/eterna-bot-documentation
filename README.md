@@ -25,3 +25,8 @@ Welcome to the docs for the Eterna-Bot from the Eternaments server! Take a look 
 
 
 `/etplayer [user]`: Displays the mentioned user's profile within the active channel.
+
+
+## Team Commands
+### These commands are meant for team members and their captains. Keep note, some commands require captiancy to execute.
+
