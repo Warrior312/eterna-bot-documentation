@@ -12,6 +12,8 @@ Welcome to the docs for the Eterna-Bot from the Eternaments server! Take a look 
 
 ## Form-Required commands
 
-`/createplayerprofile`:
-!(photos/createProfileModal.PNG)
+`/createplayerprofile`: You must fill out the following form to create a profile. Don't worry, this won't be permanent! You can change this at any time.
+
+![createProfileModal](https://github.com/Warrior312/eterna-bot-documentation/assets/87901386/6085bdb1-7ca7-4aaa-8589-ba7506ac3459)
+
 
