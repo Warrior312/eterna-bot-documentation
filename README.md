@@ -38,7 +38,7 @@ Welcome to the docs for the Eterna-Bot from the Eternaments server! Take a look 
 
 <br>
 
-`/disbandteam`: Disbands a team of your choosing. You MUST be the captain of a team to disband it.
+`/disbandteam`: Disbands a team of your choosing. You MUST be the captain of a team to disband it. League names are case-sensitive, make sure you take care of it properly.
 
 <br>
 
