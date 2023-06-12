@@ -43,3 +43,22 @@ Welcome to the docs for the Eterna-Bot from the Eternaments server! Take a look 
 <br>
 
 ![disbandModal](photos/disbandmodal.PNG)
+
+<br>
+
+`/jointeam`: Sends a request to the captain of the team specified. The captain may approve or deny this request, and may supply a reason which will be sent to you in DMS.
+
+<br>
+
+`/leaveteam`: Leaves the team specified (if you are actively rostered on that team). Alerts all team members to this change.
+
+## Match Commands
+### Note: Each of these commands requires the `@EternaTeam` role.
+
+<br>
+
+`/genmatches`: Generates matches for all teams in all game groups. May require manual resolution.
+
+
+
+
