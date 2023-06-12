@@ -10,6 +10,8 @@ Welcome to the docs for the Eterna-Bot from the Eternaments server! Take a look 
 
 `/showteam [teamname: ]`: Fill in the `teamname` attribute with the team page that you'd like to display, such as ("Tech and Design").
 
+`/docs`: Sends the link to this document in the active channel.
+
 ## Personal Commands
 ### These commands are meant for managing and viewing your own profile and other user's profiles.
 
@@ -84,3 +86,8 @@ To resolve this error, you must choose a team that is within the dropdown box. T
 ![success](photos/success.png)
 
 
+
+
+# End
+
+Thank you for taking the time to read the docs for `EternaBot`! If you have any additonal questions, please drop a DM to `warrior07` on Discord. I will attempt to answer your question as soon as possible. Thanks!
