@@ -62,21 +62,25 @@ Welcome to the docs for the Eterna-Bot from the Eternaments server! Take a look 
 **ERROR #1**
 
 <br>
+
 ![error](photos/error.png)
 
 To resolve this error, you must have more than 1 team in the league registered with the bot. In this case, there is only one team registered to play in the Rocket League 
 
 <br>
+
 **ERROR #2: Resolution Requried**
 
 ![resolve](photos/resolve.png)
 
 To resolve this error, you must choose a team that is within the dropdown box. This will match the unaccounted team with whichever team you choose, and is irreversible. Choose wisely.
+
 <br>
 
 **Success**
 
 <br>
+
 ![success](photos/success.png)
 
 
